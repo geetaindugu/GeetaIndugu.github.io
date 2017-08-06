@@ -17,6 +17,7 @@
 	display: none;
 	position: relative;
 	width: 100%;
+	max-height:500px;
 	-ms-touch-action: pan-y;
 }
 .owl-carousel .owl-wrapper{
@@ -27,6 +28,7 @@
 .owl-carousel .owl-wrapper-outer{
 	overflow: hidden;
 	position: relative;
+	max-height:500px;
 	width: 100%;
 }
 .owl-carousel .owl-wrapper-outer.autoHeight{
